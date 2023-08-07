@@ -1,0 +1,49 @@
+*{
+    padding:0;
+    margin: 0;
+    font-family: "Rubik", sans-serif;
+}
+
+body {
+    background: #fab22e;
+}
+
+#box {
+    width: 80vmin;
+    padding: 50px 40px;
+    background-color: #15161a;
+    position: absolute;
+    transform: translate(-50%, -50%);
+    top: 50%;
+    left: 50%;
+    border-radius: 5px;
+    box-shadow: 20px 20px 40px;
+}
+
+span {
+    display: block;
+    text-align: center;
+    font-size: 100px;
+}
+
+#joke {
+    color: white;
+    text-align: center;
+    font-size: 16px;
+    font-weight: 400;
+    margin: 30px 0px;
+}
+
+#btn {
+    background: #fab22e;
+    color: #171721;
+    text-align: center;
+    font-size: 18px;
+    display: block;
+    border: none;
+    font-weight: 600;
+    border-radius: 5px;
+    padding: 12px 25px;
+    margin: 0 auto;
+    cursor: pointer;
+}
