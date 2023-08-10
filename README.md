@@ -35,13 +35,13 @@ There's no need for installation! The Random Joke Generator is a web-based appli
 
 ## Search Functionality
 
-Currently, the Random Joke Generator provides jokes randomly and doesn't have a built-in search functionality. However, we're continuously working to improve the generator, and your feedback is valuable for us to consider adding new features in the future.
+No installation is required to use the Country Guide. You can access it by visiting our website https://arghya-bandyopadhyay30.github.io/Random-Joke-Generator/.
 
 ## Contributing
 
 We welcome contributions to the Random Joke Generator! If you're a developer and would like to improve the generator, add new features, or fix any issues, please follow these steps:
 
-1. Fork the repository from [GitHub Repository URL].
+1. Fork the repository from https://github.com/Arghya-Bandyopadhyay30/Random-Joke-Generator.git.
 2. Create a new branch for your contribution: `git checkout -b feature/your-feature-name`.
 3. Make your modifications and improvements.
 4. Test thoroughly to ensure everything works as expected.
