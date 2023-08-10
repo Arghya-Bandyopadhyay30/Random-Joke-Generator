@@ -31,11 +31,11 @@ You can repeat the process as many times as you like to keep the laughter flowin
 
 ## Installation
 
-There's no need for installation! The Random Joke Generator is a web-based application, so you can access it through your web browser. Just make sure you have a stable internet connection.
+No installation is required to use the Country Guide. You can access it by visiting our website https://arghya-bandyopadhyay30.github.io/Random-Joke-Generator/.
 
 ## Search Functionality
 
-No installation is required to use the Country Guide. You can access it by visiting our website https://arghya-bandyopadhyay30.github.io/Random-Joke-Generator/.
+Currently, the Random Joke Generator provides jokes randomly and doesn't have a built-in search functionality. However, we're continuously working to improve the generator, and your feedback is valuable for us to consider adding new features in the future.
 
 ## Contributing
 
@@ -53,7 +53,7 @@ We appreciate your efforts in making the Random Joke Generator even better!
 
 ## License
 
-The Random Joke Generator is under the [MIT License](LICENSE). You are free to use, modify, and distribute the application in accordance with the terms of this license. See the [LICENSE](LICENSE) file for more details.
+The Random Joke Generator is under the [MIT License](LICENSE). You are free to use, modify, and distribute the application by the terms of this license. See the [LICENSE](LICENSE) file for more details.
 
 ---
 
