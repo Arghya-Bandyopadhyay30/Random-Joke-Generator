@@ -2,13 +2,13 @@
 
 ## Contents
 
-1. Introduction
-2. Usage
-3. Features
-4. Installation
-5. Search Functionality
-6. Contributing
-7. License
+- [Introduction](#introduction)
+- [Usage](#usage)
+- [Features](#features)
+- [Installation](#installation)
+- [Search Functionality](#search-functionality)
+- [Contributing](#contributing)
+- [License](#license)
 
 ## Introduction
 
