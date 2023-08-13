@@ -35,7 +35,7 @@ No installation is required to use the Country Guide. You can access it by visit
 
 ## Search Functionality
 
-Currently, the Random Joke Generator provides jokes randomly and doesn't have a built-in search functionality. However, we're continuously working to improve the generator, and your feedback is valuable for us to consider adding new features in the future.
+Currently, the Random Joke Generator provides jokes randomly and doesn't have built-in search functionality. However, we're continuously working to improve the generator, and your feedback is valuable for us to consider adding new features in the future.
 
 ## Contributing
 
